@@ -1,0 +1,17 @@
+---
+## pod using pvc
+apiVersion: v1
+kind: Pod
+metadata:
+  name: webapp
+spec:
+  containers:
+  - image: nginx
+    name: webapp
+    volumeMounts:
+    - mountPath: "/log"
+      name: event-log
+  volumes:
+    - name: event-log
+      persistentVolumeClaim:
+        claimName: claim-log-1 
