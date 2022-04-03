@@ -1,3 +1,5 @@
+---
+# volume-pod  type: Directory
 apiVersion: v1
 kind: Pod
 metadata:
