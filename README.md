@@ -17,3 +17,6 @@
 - [Checklist for Production-Ready Clusters](https://rancher.com/docs/rancher/v2.6/en/cluster-provisioning/production/)
 - [Best Practices Guide](https://rancher.com/docs/rancher/v2.6/en/best-practices/)
 - [Access a Cluster with Kubectl and kubeconfig](https://rancher.com/docs/rancher/v2.6/en/cluster-admin/cluster-access/kubectl/)
+
+### Longhorn
+- [Longhorn: Open Source Cloud-Native Storage For K8s](https://www.youtube.com/watch?v=zJY2uxLtwUk)
