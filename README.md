@@ -13,7 +13,7 @@
 ### Rancher anotations
 
 
-- [Architecture Recommendations]([https://rancher.com/docs/rancher/v2.5/en/overview/architecture-recommendations](https://rancher.com/docs/rancher/v2.6/en/overview/architecture-recommendations/)/)
+- [Architecture Recommendations](https://rancher.com/docs/rancher/v2.6/en/overview/architecture-recommendations/)
 - [Checklist for Production-Ready Clusters](https://rancher.com/docs/rancher/v2.6/en/cluster-provisioning/production/)
 - [Best Practices Guide](https://rancher.com/docs/rancher/v2.6/en/best-practices/)
 - [Access a Cluster with Kubectl and kubeconfig](https://rancher.com/docs/rancher/v2.6/en/cluster-admin/cluster-access/kubectl/)
