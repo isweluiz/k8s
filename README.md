@@ -8,3 +8,12 @@
 - [Service Map & Hubble UI](https://docs.cilium.io/en/stable/gettingstarted/hubble/#deploy-cilium-and-hubble)
 - [F5 Container Ingress Services for Kubernetes & OpenShift](https://github.com/F5Networks/k8s-bigip-ctlr)
 - [F5 ingress service doc](https://clouddocs.f5.com/containers/latest/userguide/ingress.html)
+
+
+### Rancher anotations
+
+
+- [Architecture Recommendations]([https://rancher.com/docs/rancher/v2.5/en/overview/architecture-recommendations](https://rancher.com/docs/rancher/v2.6/en/overview/architecture-recommendations/)/)
+- [Checklist for Production-Ready Clusters](https://rancher.com/docs/rancher/v2.6/en/cluster-provisioning/production/)
+- [Best Practices Guide](https://rancher.com/docs/rancher/v2.6/en/best-practices/)
+- [Access a Cluster with Kubectl and kubeconfig](https://rancher.com/docs/rancher/v2.6/en/cluster-admin/cluster-access/kubectl/)
