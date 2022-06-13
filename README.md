@@ -8,7 +8,7 @@
 - [Service Map & Hubble UI](https://docs.cilium.io/en/stable/gettingstarted/hubble/#deploy-cilium-and-hubble)
 - [F5 Container Ingress Services for Kubernetes & OpenShift](https://github.com/F5Networks/k8s-bigip-ctlr)
 - [F5 ingress service doc](https://clouddocs.f5.com/containers/latest/userguide/ingress.html)
-
+- [Intro to Longhorn](https://www.youtube.com/watch?v=zJY2uxLtwUk)
 
 ### Rancher anotations
 
