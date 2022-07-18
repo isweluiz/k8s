@@ -13,6 +13,7 @@
 - [The Journey of Migrating to Kubernetes](https://pratikjoy7.medium.com/the-journey-of-migrating-to-kubernetes-4301d51c5e84)
 - [Migrating to kubernetes](https://sensu.io/blog/migrating-to-kubernetes)
 - [Horizontal pod autoscale](https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/)
+- [aws_eks helmchart](https://docs.aws.amazon.com/cdk/api/v1/python/aws_cdk.aws_eks/HelmChart.html)
 
 ### Rancher anotations
 
