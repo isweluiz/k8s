@@ -9,6 +9,8 @@
 - [F5 ingress service doc](https://clouddocs.f5.com/containers/latest/userguide/ingress.html)
 - [Intro to Longhorn](https://www.youtube.com/watch?v=zJY2uxLtwUk)
 - [RKE Kubernetes Installation(HA or NOHA)](https://medium.com/@sarpkoksal/rke-kubernetes-installation-ha-or-noha-5f3b0e27b32f)
+- [Ansible Kubernetes Helm Module](https://docs.ansible.com/ansible/latest/collections/kubernetes/core/helm_module.html)
+- [The Journey of Migrating to Kubernetes](https://pratikjoy7.medium.com/the-journey-of-migrating-to-kubernetes-4301d51c5e84)
 
 ### Rancher anotations
 
