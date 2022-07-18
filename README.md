@@ -1,3 +1,5 @@
+![cka](https://i.imgur.com/HYJlu5m.png)
+
 ## Best practices and Tips k8s production
 
 - [A Guide to Kubernetes Etcd: All You Need to Know to Set up Etcd Clusters](https://superuser.openstack.org/articles/a-guide-to-kubernetes-etcd-all-you-need-to-know-to-set-up-etcd-clusters/)
