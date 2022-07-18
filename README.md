@@ -1,5 +1,3 @@
-![cka](https://i.imgur.com/HYJlu5m.png)
-
 ## Best practices and Tips k8s production
 
 - [A Guide to Kubernetes Etcd: All You Need to Know to Set up Etcd Clusters](https://superuser.openstack.org/articles/a-guide-to-kubernetes-etcd-all-you-need-to-know-to-set-up-etcd-clusters/)
@@ -13,6 +11,8 @@
 - [RKE Kubernetes Installation(HA or NOHA)](https://medium.com/@sarpkoksal/rke-kubernetes-installation-ha-or-noha-5f3b0e27b32f)
 - [Ansible Kubernetes Helm Module](https://docs.ansible.com/ansible/latest/collections/kubernetes/core/helm_module.html)
 - [The Journey of Migrating to Kubernetes](https://pratikjoy7.medium.com/the-journey-of-migrating-to-kubernetes-4301d51c5e84)
+- [Migrating to kubernetes](https://sensu.io/blog/migrating-to-kubernetes)
+- [Horizontal pod autoscale](https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/)
 
 ### Rancher anotations
 
@@ -65,3 +65,5 @@
 - [Killer coda](https://killercoda.com/)
 - [CKAD Exercises](https://github.com/dgkanatsios/CKAD-exercises)
 - [CKA exam series](https://codeburst.io/kubernetes-ckad-weekly-challenges-overview-and-tips-7282b36a2681)
+
+![cka](https://i.imgur.com/HYJlu5m.png)
