@@ -15,6 +15,7 @@
 ### Rancher anotations
 
 - [RKE](https://rancher.com/products/rke)
+- [RKE2](https://docs.rke2.io/)
 - [Architecture](https://rancher.com/docs/rancher/v2.6/en/overview/architecture/#4-authorized-cluster-endpoint)
 - [Architecture Recommendations](https://rancher.com/docs/rancher/v2.6/en/overview/architecture-recommendations/)
 - [Checklist for Production-Ready Clusters](https://rancher.com/docs/rancher/v2.6/en/cluster-provisioning/production/)
