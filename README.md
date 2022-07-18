@@ -30,3 +30,39 @@
 
 ### Longhorn
 - [Longhorn: Open Source Cloud-Native Storage For K8s](https://www.youtube.com/watch?v=zJY2uxLtwUk)
+
+### Kubernetes Documentation Study points
+- [Certificate Management with kubeadm](https://kubernetes.io/docs/tasks/administer-cluster/kubeadm/kubeadm-certs/)
+- [Namespaces](https://kubernetes.io/docs/concepts/overview/working-with-objects/namespaces/)
+- [Share a Cluster with Namespaces](https://kubernetes.io/docs/tasks/administer-cluster/namespaces/)
+- [DNS label](https://kubernetes.io/docs/concepts/overview/working-with-objects/names/#dns-label-names)
+- [Restoring etcd cluster](https://kubernetes.io/docs/tasks/administer-cluster/configure-upgrade-etcd/)
+- [Upgrade kubeadm cluster](https://kubernetes.io/docs/tasks/administer-cluster/kubeadm/kubeadm-upgrade/)
+- [Kubectl](https://kubernetes.io/docs/reference/kubectl/)
+- [Kubectl cheat sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
+- [Object management](https://kubernetes.io/docs/concepts/overview/working-with-objects/object-management/)
+- [Kubectl book](https://kubectl.docs.kubernetes.io/references/)
+- [Using RBAC Authorization](https://kubernetes.io/docs/reference/access-authn-authz/rbac/)
+- [Configure Service Accounts for Pods](https://kubernetes.io/docs/tasks/configure-pod-container/configure-service-account/)
+- [Tools for Monitoring Resources](https://kubernetes.io/docs/tasks/debug-application-cluster/resource-usage-monitoring/)
+- [ConfigMaps](https://kubernetes.io/docs/concepts/configuration/configmap/)
+- [Secrets](https://kubernetes.io/docs/concepts/configuration/secret/)
+- [Resource requests and limits of Pod and container](https://kubernetes.io/docs/concepts/configuration/manage-resources-containers/#resource-requests-and-limits-of-pod-and-container)
+- [Container probes](https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/#container-probes)
+- [Pod Lifecycle](https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/)
+- [DNS for Services and Pods](https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/)
+]
+
+#### Kubernetes extra links
+- [CKA exam practice](https://www.youtube.com/watch?v=KfrZd9YCftU)
+- [Monitoring chalenges](https://www.youtube.com/watch?v=eHdotsFBb0c)
+- [Roles - rbac](https://octopus.com/blog/k8s-rbac-roles-and-bindings)
+- [Kubernetes Debugging](https://www.containiq.com/post/debugging-kubernetes-nodes-in-not-ready-state#:~:text=The%20kubectl%20get%20nodes%20command,the%20state%20of%20your%20nodes.&text=A%20node%20with%20a%20NotReady,it%20doesn't%20lie%20unused.)
+- [Commands tips](https://jamesdefabia.github.io/docs/user-guide/kubectl/kubectl_get/)
+- [21 Resources and Tutorials to Learn Kubernetes](https://medium.com/@asad_5112/21-resources-and-tutorials-to-learn-kubernetes-ec7949b7a401)
+- [Killer coda](https://killercoda.com/)
+- [CKAD Exercises](https://github.com/dgkanatsios/CKAD-exercises)
+- [CKA exam series](https://codeburst.io/kubernetes-ckad-weekly-challenges-overview-and-tips-7282b36a2681)
+- [K8s hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+- [Dumps](https://free-braindumps.com/linux-foundation/free-cka-braindumps.html?p=2)
+- [Dumps2](https://xcerts.com/linux-foundation/cka--exam-questions-and-answers.html)
