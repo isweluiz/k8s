@@ -51,7 +51,7 @@
 - [Container probes](https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/#container-probes)
 - [Pod Lifecycle](https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/)
 - [DNS for Services and Pods](https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/)
-]
+
 
 #### Kubernetes extra links
 - [CKA exam practice](https://www.youtube.com/watch?v=KfrZd9YCftU)
@@ -63,6 +63,3 @@
 - [Killer coda](https://killercoda.com/)
 - [CKAD Exercises](https://github.com/dgkanatsios/CKAD-exercises)
 - [CKA exam series](https://codeburst.io/kubernetes-ckad-weekly-challenges-overview-and-tips-7282b36a2681)
-- [K8s hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
-- [Dumps](https://free-braindumps.com/linux-foundation/free-cka-braindumps.html?p=2)
-- [Dumps2](https://xcerts.com/linux-foundation/cka--exam-questions-and-answers.html)
