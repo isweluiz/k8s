@@ -15,7 +15,7 @@
 - [Horizontal pod autoscale](https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/)
 - [aws_eks helmchart](https://docs.aws.amazon.com/cdk/api/v1/python/aws_cdk.aws_eks/HelmChart.html)
 - [Create an EKS Cluster in under 5 minutes](https://cto.ai/blog/create-an-eks-cluster-in-under-5-minutes/)
-
+- [Free Domain](https://freenom.com)
 ### Rancher anotations
 
 - [RKE](https://rancher.com/products/rke)
