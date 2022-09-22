@@ -67,5 +67,6 @@
 - [Killer coda](https://killercoda.com/)
 - [CKAD Exercises](https://github.com/dgkanatsios/CKAD-exercises)
 - [CKA exam series](https://codeburst.io/kubernetes-ckad-weekly-challenges-overview-and-tips-7282b36a2681)
+- [SSO kubernetes](https://www.tremolosecurity.com/technology/kubernetes)
 
 ![cka](https://i.imgur.com/HYJlu5m.png)
